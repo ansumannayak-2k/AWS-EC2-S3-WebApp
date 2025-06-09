@@ -45,27 +45,24 @@ AWS-EC2-S3-WebApp/
 To view the app, visit:
 
 ```
-http://<YOUR-EC2-PUBLIC-IP>
+http://54.167.159.56
 ```
-
-Replace `<YOUR-EC2-PUBLIC-IP>` with your instance's IP.
 
 ---
 
 ## 📸 Screenshots
 
-### Terminal: Node & npm Versions
-![Node Versions](<img width="1440" alt="Screenshot 2025-06-09 at 11 02 48 PM" src="https://github.com/user-attachments/assets/bbc8488d-e511-43b9-a1b7-4ea858ff0b25" />
-)
+### Terminal: Node & npm Versions  
+![Node Versions](https://github.com/user-attachments/assets/bbc8488d-e511-43b9-a1b7-4ea858ff0b25)
 
-### Web App on EC2
-![Web App](<img width="1440" alt="Screenshot 2025-06-09 at 11 19 04 PM" src="https://github.com/user-attachments/assets/84fe817d-0a8e-4df9-8f89-143ab59bfe57" />)
+### Web App on EC2  
+![Web App](https://github.com/user-attachments/assets/84fe817d-0a8e-4df9-8f89-143ab59bfe57)
 
-### EC2 Dashboard
-![EC2 Running](<img width="1440" alt="Screenshot 2025-06-10 at 12 49 02 AM" src="https://github.com/user-attachments/assets/093c66a5-644b-40da-a43c-572802fc0aad" />)
+### EC2 Dashboard  
+![EC2 Running](https://github.com/user-attachments/assets/093c66a5-644b-40da-a43c-572802fc0aad)
 
-### S3 Images Loaded
-![S3 Images](<img width="1440" alt="Screenshot 2025-06-10 at 12 49 53 AM" src="https://github.com/user-attachments/assets/ca46f976-89d8-4a8a-b591-c3ed42ff33be" />)
+### S3 Images Loaded  
+![S3 Images](https://github.com/user-attachments/assets/ca46f976-89d8-4a8a-b591-c3ed42ff33be)
 
 ---
 
