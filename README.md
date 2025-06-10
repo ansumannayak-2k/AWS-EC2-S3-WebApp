@@ -59,12 +59,14 @@ http://54.167.159.56
 ![Web App](https://github.com/user-attachments/assets/84fe817d-0a8e-4df9-8f89-143ab59bfe57)
 
 ### EC2 Dashboard  
-![EC2 Running](https://github.com/user-attachments/assets/093c66a5-644b-40da-a43c-572802fc0aad)
+![EC2 Running](https://github.com/user-attachments/assets/00c175c0-b00e-47f8-8067-50e37d1021de)
 
 ### S3 Images Loaded  
-![S3 Images](https://github.com/user-attachments/assets/ca46f976-89d8-4a8a-b591-c3ed42ff33be)
+![S3 Images](https://github.com/user-attachments/assets/f5d0104e-207c-4db0-be21-7b96778ad0ab)
 
 ---
+
+
 
 ## ✅ Steps Followed (Quick Summary)
 
